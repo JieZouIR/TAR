@@ -1,3 +1,5 @@
+This is for TOIS paper: Towards Question-Based High-Recall Information Retrieval: Locating the Last Few Relevant Documents for Technology Assisted Reviews
+
 1. Original SBSTAR: SBSTAR_Main.java 
 2. SBSTAR with noise model: SBSTAR_noise.java 
 3. SBSTAR_ext model for when-to-stop: SBSTAR_ext.java 
